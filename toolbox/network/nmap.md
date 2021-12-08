@@ -9,6 +9,7 @@
 * \-p \<port(s)> : port(s) to scan
 * \-iL \<file> : targets input file
 * \-oG \<file> : save results in greppable format
+* \-oX \<file>: save results in XML format
 * \-O : OS fingerprinting
 * \-sV : service banners
 * \-sC : default scripts set
