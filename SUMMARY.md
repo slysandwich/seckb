@@ -74,6 +74,7 @@
   * [Fuzzing](binary-exploitation/services-1/fuzzing.md)
 * [Client-Side](binary-exploitation/client-side.md)
 * [Public Exploits](binary-exploitation/public-exploits.md)
+* [Reverse Shell](binary-exploitation/reverse-shell.md)
 * [Web](binary-exploitation/web-1/README.md)
   * [XXE - XML External Entity Injection](binary-exploitation/web-1/xml-external-entity-xxe-injection.md)
   * [Code Injection - Python](binary-exploitation/web-1/code-injection-python.md)
@@ -99,7 +100,6 @@
   * [UAC Bypass](post-exploitation/windows/uac-bypass.md)
   * [Lateral Movement](post-exploitation/windows/lateral-movement.md)
   * [Port Forwarding & Tunneling](post-exploitation/windows/port-forwarding-and-tunneling.md)
-* [Reverse Shell](post-exploitation/reverse-shell.md)
 
 ## Password Attacks
 
