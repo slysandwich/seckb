@@ -100,6 +100,7 @@
   * [UAC Bypass](post-exploitation/windows/uac-bypass.md)
   * [Lateral Movement](post-exploitation/windows/lateral-movement.md)
   * [Port Forwarding & Tunneling](post-exploitation/windows/port-forwarding-and-tunneling.md)
+* [Loot, Booty & Plunder](post-exploitation/loot-booty-and-plunder.md)
 
 ## Password Attacks
 
