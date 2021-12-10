@@ -150,7 +150,7 @@ $ onesixtyone -c community -i ips_file
 
 #### Reconnaissance
 
-* [Dirb](https://tools.kali.org/web-applications/dirb) / Dirbuster / [gobuster](toolbox/web/gobuster.md)
+* [Dirb](https://tools.kali.org/web-applications/dirb) / Dirbuster / [gobuster](toolbox/web/gobuster.md) / [dirsearch](https://github.com/maurosoria/dirsearch)
 * [Nikto](https://tools.kali.org/information-gathering/nikto)
 * [Skipfish](https://tools.kali.org/web-applications/skipfish)
 * [Wpscan](https://tools.kali.org/web-applications/wpscan) (if running Wordpress)
