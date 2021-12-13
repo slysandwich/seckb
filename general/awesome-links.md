@@ -19,4 +19,5 @@
 * [Filesec.io](https://filesec.io)
 * [The-Hacker-Recipes](https://github.com/mpgn/The-Hacker-Recipes)
 * [https://github.com/dostoevskylabs/dostoevsky-pentest-notes](https://github.com/dostoevskylabs/dostoevsky-pentest-notes)
+* [https://xapax.github.io/security/#](https://xapax.github.io/security/#)
 
