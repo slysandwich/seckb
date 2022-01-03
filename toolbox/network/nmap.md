@@ -43,6 +43,9 @@ $ nmap -p 139,445 --script smb* 10.0.0.1
 
 # Run MS08-067 plugin on target host
 $ nmap -v -p 139,445 --script=smb-vuln-ms08-067 --script-args=unsafe=1 10.0.0.1
+
+# Comprehensive SMB scanning
+nmap -p 139,445 --script=smb-vuln*,smb-enum*,smb-os-discovery --script-args=unsafe=1 10.0.0.1
 ```
 
 ## Extensive Host Scanning
