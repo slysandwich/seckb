@@ -6,6 +6,7 @@
 * [https://book.hacktricks.xyz/](https://book.hacktricks.xyz)
 * [https://www.ired.team/](https://www.ired.team)
 * [https://kwcsec.gitbook.io/the-red-team-handbook/](https://kwcsec.gitbook.io/the-red-team-handbook/)
+* [https://dmcxblue.gitbook.io/red-team-notes-2-0/](https://dmcxblue.gitbook.io/red-team-notes-2-0/)
 
 ## External Links
 
