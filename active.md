@@ -170,6 +170,14 @@ $ onesixtyone -c community -i ips_file
 * [https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web-Content](https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web-Content)
 * [https://github.com/danielmiessler/SecLists/blob/master/Miscellaneous/wordlist-skipfish.fuzz.txt](https://github.com/danielmiessler/SecLists/blob/master/Miscellaneous/wordlist-skipfish.fuzz.txt)
 
+## Active Directory
+
+Enumerate hosts
+
+```
+crackmapexec smb <hosts>
+```
+
 ## Others
 
 * [https://github.com/nyxgeek/lyncsmash](https://github.com/nyxgeek/lyncsmash)
