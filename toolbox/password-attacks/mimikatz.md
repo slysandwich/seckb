@@ -26,3 +26,9 @@ Show Kerberos tickets
 ```
 sekurlsa::tickets
 ```
+
+Dump cached domain credentials
+
+```
+lsadump::cache
+```
