@@ -1,5 +1,10 @@
 # Active
 
+## Tools
+
+* [AutoRecon](https://github.com/Tib3rius/AutoRecon)
+* [Reconnoitre](https://github.com/codingo/Reconnoitre)
+
 ## Network
 
 ### Sweeping

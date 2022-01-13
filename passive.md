@@ -20,8 +20,6 @@
   * Twofi
   * Linkedin2username
 * Maltego
-* [AutoRecon](https://github.com/Tib3rius/AutoRecon)
-* [Reconnoitre](https://github.com/codingo/Reconnoitre)
 * [https://osintframework.com/](https://osintframework.com)
 * [bit.ly/bcattools](http://bit.ly/bcattools)
 * [https://archive.org/web/](https://archive.org/web/)
