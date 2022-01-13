@@ -7,6 +7,9 @@
 * [https://www.ired.team/](https://www.ired.team)
 * [https://kwcsec.gitbook.io/the-red-team-handbook/](https://kwcsec.gitbook.io/the-red-team-handbook/)
 * [https://dmcxblue.gitbook.io/red-team-notes-2-0/](https://dmcxblue.gitbook.io/red-team-notes-2-0/)
+* [https://cheatsheet.haax.fr/](https://cheatsheet.haax.fr)
+* [https://github.com/dostoevskylabs/dostoevsky-pentest-notes](https://github.com/dostoevskylabs/dostoevsky-pentest-notes)
+* [https://xapax.github.io/security/#](https://xapax.github.io/security/#)
 
 ## External Links
 
@@ -19,6 +22,4 @@
 * [WADComs](https://wadcoms.github.io)
 * [Filesec.io](https://filesec.io)
 * [The-Hacker-Recipes](https://github.com/mpgn/The-Hacker-Recipes)
-* [https://github.com/dostoevskylabs/dostoevsky-pentest-notes](https://github.com/dostoevskylabs/dostoevsky-pentest-notes)
-* [https://xapax.github.io/security/#](https://xapax.github.io/security/#)
 
