@@ -54,3 +54,9 @@ nmap -p 139,445 --script=smb-vuln*,smb-enum*,smb-os-discovery --script-args=unsa
 nmap -Pn -sT -A -p- --reason --script=vuln --script-args=unsafe <IP>
 nmap -sU --top-ports=1000 <IP>
 ```
+
+## Proxychains
+
+```
+seq 1 65535 | xargs -P 50 -I port proxychains -q nmap -p port -sT -T4 <IP> -oX <IP>.xml --open --append-output <IP> -Pn -n
+```
