@@ -1,5 +1,11 @@
 # Gobuster
 
+## Running Through a SOCKS Proxy
+
+```
+HTTP_PROXY="socks5://127.0.0.1:1080/" ./gobuster
+```
+
 ## Examples
 
 ### Quick Directory Busting
