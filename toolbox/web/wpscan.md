@@ -8,7 +8,6 @@
   * at: all themes
   * cb: config backups
   * dbe: database exports
-  * u: users
 
 ## Examples
 
