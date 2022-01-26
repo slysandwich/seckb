@@ -84,6 +84,7 @@
   * [File Inclusion](binary-exploitation/web-1/file-inclusion.md)
   * [Webshell](binary-exploitation/web-1/webshell.md)
   * [XSS - Cross-Site Scripting](binary-exploitation/web-1/xss-cross-site-scripting.md)
+  * [Wordpress](binary-exploitation/web-1/wordpress.md)
 
 ## Post-Exploitation
 
