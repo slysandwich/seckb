@@ -93,6 +93,21 @@ Test NULL connect:
 rpcclient -U "" 127.0.0.1
 ```
 
+Retrieve server version:
+
+* Samba:
+
+```
+#term1
+sudo ngrep -i -d tun0 's.?a.?m.?b.?a.*[[:digit:]]' port 139
+
+#term2
+echo exit | smbclient -L 10.0.0.1
+```
+
+* Windows:
+  * Use Wireshark. But it is more complex than just a version.
+
 ## NFS
 
 * [Nmap ](toolbox/network/nmap.md)-p111 --script nfs\*
