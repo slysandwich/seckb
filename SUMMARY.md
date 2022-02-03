@@ -67,6 +67,7 @@
 
 * [Services](binary-exploitation/services/README.md)
   * [3306 - MySQL / MariaDB](binary-exploitation/services/3306-mysql-mariadb.md)
+  * [1433 - MSSQL](binary-exploitation/services/1433-mssql.md)
 * [Applications](binary-exploitation/applications/README.md)
   * [Exchange](binary-exploitation/applications/exchange.md)
 * [Binary](binary-exploitation/services-1/README.md)
