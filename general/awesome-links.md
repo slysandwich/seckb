@@ -22,4 +22,5 @@
 * [WADComs](https://wadcoms.github.io)
 * [Filesec.io](https://filesec.io)
 * [The-Hacker-Recipes](https://github.com/mpgn/The-Hacker-Recipes)
+* [https://github.com/andrew-d/static-binaries/tree/master/binaries](https://github.com/andrew-d/static-binaries/tree/master/binaries)
 
