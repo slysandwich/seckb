@@ -66,8 +66,11 @@
 ## Exploitation <a href="#binary-exploitation" id="binary-exploitation"></a>
 
 * [Services](binary-exploitation/services/README.md)
-  * [3306 - MySQL / MariaDB](binary-exploitation/services/3306-mysql-mariadb.md)
+  * [21 - FTP](binary-exploitation/services/21-ftp.md)
+  * [139, 445 - SMB](binary-exploitation/services/139-445-smb.md)
   * [1433 - MSSQL](binary-exploitation/services/1433-mssql.md)
+  * [3306 - MySQL / MariaDB](binary-exploitation/services/3306-mysql-mariadb.md)
+  * [5800, 5900 - VNC](binary-exploitation/services/5800-5900-vnc.md)
 * [Applications](binary-exploitation/applications/README.md)
   * [Exchange](binary-exploitation/applications/exchange.md)
 * [Binary](binary-exploitation/services-1/README.md)
