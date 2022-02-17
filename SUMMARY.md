@@ -36,6 +36,7 @@
   * [Sed](toolbox/linux/sed.md)
   * [Xxd](toolbox/linux/xxd.md)
 * [Windows](toolbox/windows/README.md)
+  * [Rpcclient](toolbox/windows/rpcclient.md)
   * [SNMP /Windows](toolbox/windows/snmp-windows.md)
   * [Powercat](toolbox/windows/powercat.md)
 * [Web](toolbox/web/README.md)
