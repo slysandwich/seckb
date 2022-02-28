@@ -13,6 +13,7 @@
 * [Lsassy](https://github.com/Hackndo/lsassy)
 * [Ruler](https://github.com/sensepost/ruler/)
   * OWA
+* [Lyncsmash](https://github.com/nyxgeek/lyncsmash)
 
 ## Hash Identification
 

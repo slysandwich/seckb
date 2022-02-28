@@ -23,5 +23,4 @@
 * [Filesec.io](https://filesec.io)
 * [The-Hacker-Recipes](https://github.com/mpgn/The-Hacker-Recipes)
 * [https://github.com/andrew-d/static-binaries/tree/master/binaries](https://github.com/andrew-d/static-binaries/tree/master/binaries)
-* [https://orangecyberdefense.com/fr/insights/blog/ethical\_hacking/etat-de-lart-du-pivoting-reseau-en-2019/](https://orangecyberdefense.com/fr/insights/blog/ethical\_hacking/etat-de-lart-du-pivoting-reseau-en-2019/)
 

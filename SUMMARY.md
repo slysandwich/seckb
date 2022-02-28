@@ -63,14 +63,18 @@
 
 ***
 
-* [Passive](passive.md)
-* [Active](active.md)
+* [OSINT](passive.md)
+* [Network Scanning](active.md)
 
 ## Exploitation <a href="#binary-exploitation" id="binary-exploitation"></a>
 
 * [Services](binary-exploitation/services/README.md)
   * [21 - FTP](binary-exploitation/services/21-ftp.md)
+  * [25 - SMTP](binary-exploitation/services/25-smtp.md)
+  * [53 - DNS](binary-exploitation/services/53-dns.md)
+  * [111 - NFS](binary-exploitation/services/111-nfs.md)
   * [139, 445 - SMB](binary-exploitation/services/139-445-smb.md)
+  * [161 - SNMP](binary-exploitation/services/161-snmp.md)
   * [1433 - MSSQL](binary-exploitation/services/1433-mssql.md)
   * [3306 - MySQL / MariaDB](binary-exploitation/services/3306-mysql-mariadb.md)
   * [5800, 5900 - VNC](binary-exploitation/services/5800-5900-vnc.md)
@@ -83,20 +87,20 @@
 * [Public Exploits](binary-exploitation/public-exploits.md)
 * [Reverse Shell](binary-exploitation/reverse-shell.md)
 * [Web](binary-exploitation/web-1/README.md)
-  * [Content-Security Bypass](binary-exploitation/web-1/content-security-bypass.md)
-  * [XXE - XML External Entity Injection](binary-exploitation/web-1/xml-external-entity-xxe-injection.md)
-  * [Code Injection - Python](binary-exploitation/web-1/code-injection-python.md)
-  * [SQL Injection](binary-exploitation/web-1/sql-injection.md)
-  * [PHP Wrappers](binary-exploitation/web-1/php-wrappers.md)
   * [Launching HTTP Server](binary-exploitation/web-1/launching-http-server.md)
-  * [File Inclusion](binary-exploitation/web-1/file-inclusion.md)
+  * [Techniques](binary-exploitation/web-1/techniques/README.md)
+    * [Code Injection - Python](binary-exploitation/web-1/techniques/code-injection-python.md)
+    * [Content-Security Bypass](binary-exploitation/web-1/techniques/content-security-bypass.md)
+    * [File Inclusion](binary-exploitation/web-1/techniques/file-inclusion.md)
+    * [PHP Wrappers](binary-exploitation/web-1/techniques/php-wrappers.md)
+    * [SQL Injection](binary-exploitation/web-1/techniques/sql-injection.md)
+    * [XSS - Cross-Site Scripting](binary-exploitation/web-1/techniques/xss-cross-site-scripting.md)
+    * [XXE - XML External Entity Injection](binary-exploitation/web-1/techniques/xml-external-entity-xxe-injection.md)
   * [Webshell](binary-exploitation/web-1/webshell.md)
-  * [XSS - Cross-Site Scripting](binary-exploitation/web-1/xss-cross-site-scripting.md)
   * [Wordpress](binary-exploitation/web-1/wordpress.md)
 
 ## Post-Exploitation
 
-* [TMP](post-exploitation/tmp.md)
 * [Linux](post-exploitation/linux/README.md)
   * [Privilege Escalation](post-exploitation/linux/privilege-escalation.md)
   * [Port Forwarding & Tunneling](post-exploitation/linux/port-forwarding-and-tunneling.md)
@@ -109,12 +113,13 @@
   * [UAC Bypass](post-exploitation/windows/uac-bypass.md)
   * [Lateral Movement](post-exploitation/windows/lateral-movement.md)
   * [Port Forwarding & Tunneling](post-exploitation/windows/port-forwarding-and-tunneling.md)
+* [Pivoting](post-exploitation/pivoting.md)
 * [Loot, Booty & Plunder](post-exploitation/loot-booty-and-plunder.md)
 
 ## Password Attacks
 
-* [Wordlists](password-attacks/wordlists.md)
 * [Default Credentials](password-attacks/default-credentials.md)
+* [Wordlists](password-attacks/wordlists.md)
 * [Pass-The-Hash](password-attacks/pass-the-hash.md)
 
 ## Crypto
