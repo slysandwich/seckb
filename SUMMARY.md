@@ -47,6 +47,8 @@
   * [Metasploit](toolbox/exploitation-frameworks/metasploit.md)
   * [Powershell Empire](toolbox/exploitation-frameworks/powershell-empire.md)
 * [Password Attacks](toolbox/password-attacks/README.md)
+  * [CredMaster](toolbox/password-attacks/credmaster.md)
+  * [Go365](toolbox/password-attacks/go365.md)
   * [Hashcat](toolbox/password-attacks/hashcat.md)
   * [fgdump](toolbox/password-attacks/fgdump.md)
   * [pwdump](toolbox/password-attacks/pwdump.md)
@@ -81,6 +83,7 @@
 * [Public Exploits](binary-exploitation/public-exploits.md)
 * [Reverse Shell](binary-exploitation/reverse-shell.md)
 * [Web](binary-exploitation/web-1/README.md)
+  * [Content-Security Bypass](binary-exploitation/web-1/content-security-bypass.md)
   * [XXE - XML External Entity Injection](binary-exploitation/web-1/xml-external-entity-xxe-injection.md)
   * [Code Injection - Python](binary-exploitation/web-1/code-injection-python.md)
   * [SQL Injection](binary-exploitation/web-1/sql-injection.md)
@@ -131,3 +134,4 @@
 
 * [Kali Customisation](kali-customisation.md)
 * [CTFs](ctfs.md)
+* [Mobile Pentest](mobile-pentest.md)
