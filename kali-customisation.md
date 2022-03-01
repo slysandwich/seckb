@@ -1,6 +1,6 @@
 # Kali Customisation
 
-To do when installing a new Kali instance:
+To do when installing a new Kali system:
 
 * Vimrc
 * [https://www.kali.org/docs/general-use/install-nvidia-drivers-on-kali-linux/](https://www.kali.org/docs/general-use/install-nvidia-drivers-on-kali-linux/)
