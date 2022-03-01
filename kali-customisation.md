@@ -7,4 +7,8 @@ To do when installing a new Kali instance:
 
 Packets to install:
 
+* chromium
 * seclists
+* [PEASS](https://github.com/carlospolop/PEASS-ng)
+* [LaZagne](https://github.com/AlessandroZ/LaZagne)
+* [chisel](https://github.com/jpillora/chisel)
