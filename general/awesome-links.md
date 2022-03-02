@@ -24,3 +24,6 @@
 * [The-Hacker-Recipes](https://github.com/mpgn/The-Hacker-Recipes)
 * [https://github.com/andrew-d/static-binaries/tree/master/binaries](https://github.com/andrew-d/static-binaries/tree/master/binaries)
 
+## Misc
+
+* [https://malcomvetter.medium.com/how-to-create-an-internal-corporate-red-team-1023027ea1e3](https://malcomvetter.medium.com/how-to-create-an-internal-corporate-red-team-1023027ea1e3)
