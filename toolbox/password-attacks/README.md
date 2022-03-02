@@ -18,3 +18,7 @@
 ## Hash Identification
 
 * [https://psypanda.github.io/hashID/](https://psypanda.github.io/hashID/)
+
+## Searching Secrets
+
+* [https://github.com/securing/DumpsterDiver](https://github.com/securing/DumpsterDiver)
